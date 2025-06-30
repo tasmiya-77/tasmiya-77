@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tasmiya
 
-💻 Aspiring Data Scientist & CSE undergrad 
+💻 Aspiring Data Scientist & CSE undergrad.
 🔍 Passionate about Python, SQL, Data Analysis & Java Programming  
 📊 Skilled in Pandas • NumPy • Matplotlib • Excel • R  
 🚀 Currently learning: Machine Learning & DSA  
